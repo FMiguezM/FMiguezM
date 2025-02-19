@@ -3,7 +3,7 @@
   <p>
     <strong>
       Egresado de la carrera Tecnólogo en Informático, Uruguay. Actualmente estudiante de Machine Learning. Desarrollador Front-End, Gestor de sistemas de Bases de Datos, especializado en SQL y desarrollo Front-End. <br><br>
-      Experiencia laboral con TS, Java, Python y Postgresql. Conocimientos en Data Structures, Database Systems, Object-Oriented       Programming y habilidad para resolver problemas.<br><br>
+      Experiencia laboral con JS, Java, Python y Postgresql. Conocimientos en Data Structures, Database Systems, programación orientada a objetos y habilidad para resolver problemas.<br><br>
     </strong>
   </p>
 
